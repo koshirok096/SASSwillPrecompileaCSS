@@ -1,2 +1,2 @@
 # SASSwillPrecompileaCSS homework
-# Pizzeria da Jessoro
+# Pizzeria da Jesoro
